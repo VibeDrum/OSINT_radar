@@ -1,6 +1,6 @@
 # 🔍 OSINT RADAR
 
-Este projeto foi desenvolvido como o desafio final de Padrões de Projeto (Design Patterns) em Java. A aplicação simula um motor de inteligência de fontes abertas (OSINT) focado em reconhecimento de alvos para Cybersecurity.
+OSINT Radar é uma aplicacao de inteligência de fontes abertas (OSINT) desenvolvida para identificar e analisar a exposição digital de um alvo a partir de um domínio ou endereço de e-mail. O sistema executa automaticamente diversas verificações e coletas de informações públicas, consolidando os resultados em um relatório detalhado que auxilia na identificação de riscos, vazamento de dados, ativos expostos e potenciais vulnerabilidades. O objetivo é fornecer uma visão clara da presença digital do alvo, apoiando processos de segurança, monitoramento e avaliação de exposição cibernética.
 
 ## 🛠️ Padrões de Projeto Aplicados
 
