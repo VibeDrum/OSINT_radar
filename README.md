@@ -1,4 +1,4 @@
-# 🔍 OSINT Target Recon Intelligence Engine
+# 🔍 OSINT RADAR
 
 Este projeto foi desenvolvido como o desafio final de Padrões de Projeto (Design Patterns) em Java. A aplicação simula um motor de inteligência de fontes abertas (OSINT) focado em reconhecimento de alvos para Cybersecurity.
 
